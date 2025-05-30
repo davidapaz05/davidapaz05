@@ -49,8 +49,7 @@ Meu foco é me tornar um dev full-stack competente, dominando tanto front-end qu
     <!-- Main Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=davidapaz05&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2563eb&icon_color=2563eb&text_color=64748b" alt="GitHub Stats" width="400" />
     
-    <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com?user=davidapaz05&theme=transparent&hide_border=true&background=00000000&ring=2563eb&fire=2563eb&currStreakNum=2563eb&sideNums=64748b&currStreakLabel=64748b&sideLabels=64748b" alt="GitHub Streak" width="400" />
+
   </div>
 
   <!-- Languages -->
