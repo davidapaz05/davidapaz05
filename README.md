@@ -1,4 +1,4 @@
-## Olá eu sou o Davi da Paz 👋
+## Olá eu sou o Davi 👋
 
 <!--
 Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI Suíço-Brasileira �️ e atualmente estou no 3º semestre 📚. Com apenas 17 anos 🎯, já estou mergulhando no mundo da programação para me tornar um desenvolvedor full-stack 💻🚀.
